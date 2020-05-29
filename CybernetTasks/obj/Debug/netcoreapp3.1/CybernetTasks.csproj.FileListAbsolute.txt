@@ -1,0 +1,13 @@
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.exe
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.deps.json
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.runtimeconfig.json
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.dll
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\bin\Debug\netcoreapp3.1\CybernetTasks.pdb
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.AssemblyInfo.cs
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.dll
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.pdb
+C:\Users\Murad\source\repos\CybernetTasks\CybernetTasks\obj\Debug\netcoreapp3.1\CybernetTasks.genruntimeconfig.cache
